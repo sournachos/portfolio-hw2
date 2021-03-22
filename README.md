@@ -11,7 +11,7 @@ https://sournachos.github.io/portfolio-hw2/
 
 ## Screenshot
 
-![Caption](/assets/images/  )
+![Caption](/assets/images/goal.gif)
 
 ## Download
 Clone into your local computer through your command prompt using your SHH key with the line below.
