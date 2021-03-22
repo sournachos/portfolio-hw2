@@ -2,8 +2,8 @@
 
 The Portfolio-HW2 shows an example of a web developer's portfolio created based on a demo picture shown in the Screenshot section. 
 
-                                                [***DISCLAIMER***]
-                                        This is NOT my personal portfolio.
+                        [***DISCLAIMER***]
+                This is NOT my personal portfolio.
 
 ## Live Site
 
