@@ -10,8 +10,11 @@ The Portfolio-HW2 shows an example of a web developer's portfolio created based 
 https://sournachos.github.io/portfolio-hw2/
 
 ## Screenshot
-
+        Demo Picture Given
 ![Caption](/Assets/images/goal.gif)
+
+        Completed Project
+![Caption](/Assets/images/demo.png)
 
 ## Download
 Clone into your local computer through your command prompt using your SHH key with the line below.
