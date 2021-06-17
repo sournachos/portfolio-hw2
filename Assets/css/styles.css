@@ -205,10 +205,6 @@ span{
     font-size: 80%;
 }
 
-#class{
-   right: 0px;
-}
-
 /* Project 2 */
 .work2 img{
     height: 12em;
@@ -266,6 +262,19 @@ span{
     margin: 10px;
     width: 45%;
 }
+
+.live a{
+    text-decoration: none;
+    color: red;
+    font-weight: bold;
+    background-color: whitesmoke;
+    padding: 1px;
+    border-radius: 20%;
+}
+
+.live{
+    padding-left:10px;
+ }
 
 /* Contact Me section */
 .contactme{
